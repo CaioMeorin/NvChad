@@ -1,9 +1,7 @@
-<h1 align="center">NvChad</h1>
-
+<h1 align="center">NvChad Installation</h1>
+<h2 align="center">git clone https://github.com/CaioMeorin/NvChad ~/.config/nvim --depth 1 && nvim</h2>
 <div align="center">
 	<a href="https://nvchad.com/">Home</a>
-  <span> • </span>
-    	Install: git clone https://github.com/CaioMeorin /NvChad ~/.config/nvim --depth 1 && nvim
   <span> • </span>
        	<a href="https://nvchad.com/docs/contribute">Contribute</a>
   <span> • </span>
