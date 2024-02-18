@@ -3,7 +3,7 @@
 <div align="center">
 	<a href="https://nvchad.com/">Home</a>
   <span> • </span>
-    	<a href="https://nvchad.com/docs/quickstart/install">Install</a>
+    	Install: git clone https://github.com/CaioMeorin /NvChad ~/.config/nvim --depth 1 && nvim
   <span> • </span>
        	<a href="https://nvchad.com/docs/contribute">Contribute</a>
   <span> • </span>
